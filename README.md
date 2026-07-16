@@ -50,15 +50,15 @@
 
 | Resource | Version | Role |
 |---|---|---|
-| `spz-lib` | 1.0.0+ | Callbacks and asset management |
+| `ox_lib` | 3.0.0+ | Callbacks and asset management |
 | `spz-physics` | 1.0.0+ | Effect triggering source |
 
 ---
 
 <div align="center">
 
-*Part of the [SPiceZ-Core](https://github.com/SPiceZ-Core) ecosystem*
+*Part of the [SPiceZ-Core](https://github.com/SPiceZ21) ecosystem*
 
-**[Docs](https://github.com/SPiceZ-Core/spz-docs) · [Discord](https://discord.gg/) · [Issues](https://github.com/SPiceZ-Core/spz-carfx/issues)**
+**[Docs](https://github.com/SPiceZ21/spz-docs) · [Discord](https://discord.gg/) · [Issues](https://github.com/SPiceZ21/spz-carfx/issues)**
 
 </div>
