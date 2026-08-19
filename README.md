@@ -7,7 +7,7 @@
 `spz-carfx` is an asset-only resource. It streams the custom particle libraries other
 modules trigger for backfire flames, nitrous purges and tire smoke. There is no Lua — the
 `.ypt` files are registered as PTFX asset files and consumed by
-[spz-nos](../spz-nos/README.md) and [spz-physics](../spz-physics/README.md).
+[spz-physics](../spz-physics/README.md).
 
 ## Assets
 
