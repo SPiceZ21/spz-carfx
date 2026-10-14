@@ -7,4 +7,4 @@ version '1.0.0'
 author 'SPiceZ-Core'
 
 data_file 'PTFX_ASSET_FILE' 'stream/core.ypt'
-data_file 'PTFX_ASSET_FILE' 'stream/veh_xs_vehicle_mods.ypt'
+data_file 'PTFX_ASSET_FILE' 'stream/veh_xs_vehicle_mods.ypt'
