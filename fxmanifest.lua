@@ -3,7 +3,7 @@ game 'gta5'
 
 name 'spz-carfx'
 description 'SPiceZ-Core — Custom vehicle particle effects'
-version '1.0.0'
+version '1.0.1'
 author 'SPiceZ-Core'
 
 data_file 'PTFX_ASSET_FILE' 'stream/core.ypt'
